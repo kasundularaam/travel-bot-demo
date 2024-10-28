@@ -1,0 +1,4 @@
+booking_id,flight_id,user_id,booking_date,passenger_count,total_price,status
+BK001,FL123,USR1,2024-02-01,2,399.98,confirmed
+BK002,FL124,USR2,2024-02-01,1,210.50,confirmed
+BK003,FL125,USR3,2024-02-02,1,399.99,cancelled

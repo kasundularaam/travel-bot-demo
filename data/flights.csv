@@ -1,0 +1,5 @@
+flight_id,departure_city,arrival_city,departure_date,departure_time,arrival_time,price,seats_available,class_type
+FL123,London,Paris,2024-03-15,10:00,12:30,199.99,45,economy
+FL124,Paris,London,2024-03-20,14:00,16:30,210.50,30,economy
+FL125,London,Paris,2024-03-15,11:00,13:30,399.99,10,business
+FL126,Paris,London,2024-03-20,15:00,17:30,450.50,8,business

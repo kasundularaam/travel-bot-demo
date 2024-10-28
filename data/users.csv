@@ -1,0 +1,4 @@
+user_id,name,email,preferences,last_interaction
+USR1,John Doe,john@email.com,economy|window seat,2024-02-01
+USR2,Jane Smith,jane@email.com,business|aisle seat,2024-02-01
+USR3,Bob Wilson,bob@email.com,economy|no preference,2024-02-02
